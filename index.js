@@ -30,7 +30,7 @@ function makeInt(n){
 }
 
 function makeInt(n){
-  parseInt(10);
+  parseInt(10, n);
   return n;
 }
 
