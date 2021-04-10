@@ -24,19 +24,12 @@ function decrement(n) {
   return n;
 }
 
-
 function makeInt(n){
   return parseInt;
 }
-
 
 function makeInt(n){
   return parseInt(n, 10);
-}
-
-function preserveDecimal(n){
-  parseInt(n);
-  return parseInt;
 }
 
 function preserveDecimal(n){
